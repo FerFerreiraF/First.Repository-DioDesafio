@@ -1,9 +1,8 @@
 # Checklist de viagem
-* ## Chile 
+
 * [ ] Passaporte ou RG
 * [ ] Comprovante de Vacina
 * [ ] Declaração de Covid  
-* [ ] Pass do Covid 
 * [ ] Seguro viagem
 * [ ] Dinheiro 
 * [ ] Backup do celular
